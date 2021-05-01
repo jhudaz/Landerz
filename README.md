@@ -1,5 +1,5 @@
 # Landerz
----
+
 Landing page based in a mockup with responsive design
 
 ### Tools
@@ -24,6 +24,5 @@ $ git clone https://github.com/jhudaz/Rick.git
 ![app](https://raw.githubusercontent.com/jhudaz/landing-page/main/images/fed-test-template-mobile.png)
 
 ## License
-----
 
 MIT
